@@ -1,0 +1,6 @@
+This is the 1st file.
+file1 - Line 1.
+file1 - Line 2.
+This is the 2nd file.
+file2 - Line 1.
+file2 - Line 2.
